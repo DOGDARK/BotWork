@@ -162,4 +162,4 @@ cython_debug/
 tmp
 volumes
 .ruff_cache
-restart_myspot.sh 
+credentials.json
